@@ -1,0 +1,6 @@
+[submodule "fcl_conversions"]
+	path = fcl_conversions
+	url = git@github.com:PeterJochem/fcl_conversions.git
+[submodule "ros_conversions"]
+	path = ros_conversions
+	url = git@github.com:PeterJochem/ros_conversions.git
